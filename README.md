@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryujin-akm
 - 👀 I’m interested in Human Computer Interaction
-- 🌱 I’m currently learning fastai and pytorch
+- 🌱 I’m currently learning PyTorch
 - 💞️ I’m looking to collaborate on DL/ML/research based projects
 - 📫 How to reach me https://www.linkedin.com/in/apoorvmasta/
 
