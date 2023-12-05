@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryujin-akm
-- 👀 I’m interested in Human Computer Interaction
-- 🌱 I’m currently learning PyTorch
+- 👀 I’m interested in Computer Vision/Human Computer Interaction/LLMs
+- 🌱 I’m currently learning about LLMs and Computer Vision
 - 💞️ I’m looking to collaborate on DL/ML/research based projects
 - 📫 How to reach me https://www.linkedin.com/in/apoorvmasta/
 
